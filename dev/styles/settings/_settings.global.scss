@@ -1,0 +1,38 @@
+// fonts, breakpoints, colors
+
+
+// fonts
+
+// breakpoints
+
+// colors - default
+
+$color-white: #fff;
+$color-black: #000;
+$color-very-light-grey: #ccc;
+$color-light-grey: #999;
+
+// colors - brand, used for fill main parts on the web - like nav background, components ...
+
+$color-primary: #fff;
+$color-secondary: #000;
+$color-tertiary: rgba(255, 255, 255, 1);
+
+//  colors - text
+
+$color-bg: $color-white;
+$color-text: $color-black;
+
+//  colors - links
+
+$color-link: $color-light-grey;
+$color-hover: $color-very-light-grey;
+
+//  colors - borders
+
+$color-border: $color-black;
+
+// colors - fills
+
+$color-fill-navbar: $color-primary;
+
